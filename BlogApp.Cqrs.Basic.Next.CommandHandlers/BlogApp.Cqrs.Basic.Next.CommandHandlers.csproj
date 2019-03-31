@@ -1,0 +1,11 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\BlogApp.Cqrs.Basic.Next.Command\BlogApp.Cqrs.Basic.Next.Commands.csproj" />
+  </ItemGroup>
+
+</Project>
